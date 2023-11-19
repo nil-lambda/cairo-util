@@ -2,6 +2,8 @@
 Cairo-Util is a utility software designed to enhance the functionality of the [Cairo Desktop Environment](https://github.com/cairoshell/cairoshell) on Windows.
 The software offers its users a set of shortcuts and features, helping them regain control and efficiency in their computing experience when Cairo is set as the shell. It comes with executables for both **x64** and **x86** architectures which you can find in the [Releases](https://github.com/shellstrike/cairo-util/releases/tag/1.0)
 
+**Tested on** [**Version 0.4.245.61259 - Pre-release**](https://github.com/cairoshell/cairoshell/releases/tag/v0.4.245)
+
 # Limitations
 As of the current version, Cairo-Util offers a predefined set of keyboard shortcuts and bindings. 
 To modify the key combinations and associated actions, users would need to directly edit the source code of Cairo-Util. 
